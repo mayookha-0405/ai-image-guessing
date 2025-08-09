@@ -44,7 +44,7 @@ Simply double-click the HTML file or host it on any web server.
 
 ### Screenshots
 
-![Welcome Screen](assets/screen_125.png)
+![Welcome Screen](assets/Screenshot(125).png)
 ![Drawing Interface](assets/screen_127.png)
 ![Fake Reward](assets/screen_137.png)
 
