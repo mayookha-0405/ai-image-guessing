@@ -44,19 +44,14 @@ Simply double-click the HTML file or host it on any web server.
 
 ### Screenshots
 
-![Welcome Screen] 
+![Welcome Screen] (assets/Screenshot(125).png)
 The ominous welcome screen that dares you to enter the torture chamber
 
-![Drawing Interface](drawing_screenshot.png)  
+![Drawing Interface](assets/Screenshot(127).png)  
 The main interface where you attempt to draw while the AI sabotages you
 
-![Fake Reward](fake_reward_screenshot.png)  
+![Fake Reward](assets/Screenshot(137).png)  
 The cruel fake reward popup that appears after two attempts
-
-### Diagrams
-
-![Workflow](workflow_diagram.png)  
-The game workflow showing how user actions trigger AI responses and sabotages
 
 ## Project Demo
 
