@@ -1,4 +1,4 @@
-# AI Drawing Torture Chamber 🎯
+# Wrong Strokes 🎯
 
 ## Basic Details
 
