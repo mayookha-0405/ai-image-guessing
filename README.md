@@ -42,12 +42,16 @@ Simply double-click the HTML file or host it on any web server.
 
 ## Project Documentation
 
-### Screenshots
+## 📸 Screenshots
 
-![Welcome Screen](assets/Screenshot(125).png)
-![Drawing Interface](assets/screen_127.png)
-![Fake Reward](assets/screen_137.png)
+### 1. Welcome Screen  
+![Welcome Screen](assets/Screenshot%20(125).png)  
 
+### 2. Drawing Interface  
+![Drawing Interface](assets/screen_127.png)  
+
+### 3. Fake Reward  
+![Fake Reward](assets/screen_137.png)  
 
 ## Project Demo
 
