@@ -44,14 +44,19 @@ Simply double-click the HTML file or host it on any web server.
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### 1. Welcome Screen  
 ![Welcome Screen](assets/Screenshot%20(125).png)  
+The entry point of the AI Image Guessing game, showing the title and a “Start” button for players to begin.
 
 ### 2. Drawing Interface  
-![Drawing Interface](assets/screen_127.png)  
+![Drawing Interface](assets/screenshot%20(127).png)  
+The main gameplay area where the player draws their object, and the AI tries to guess it in real time.
 
 ### 3. Fake Reward  
-![Fake Reward](assets/screen_137.png)  
+![Fake Reward](assets/screenshot%20(137).png)  
+A humorous “fake reward” popup displayed after a round, keeping the game fun and light-hearted.
 
 ## Project Demo
 
