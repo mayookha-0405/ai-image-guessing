@@ -44,7 +44,7 @@ Simply double-click the HTML file or host it on any web server.
 
 ### Screenshots
 
-![Welcome Screen] (assets/Screenshot(125).png)
+![Welcome Screen](assets/Screenshot(125).png)  
 The ominous welcome screen that dares you to enter the torture chamber
 
 ![Drawing Interface](assets/Screenshot(127).png)  
