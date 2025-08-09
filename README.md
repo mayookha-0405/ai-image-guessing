@@ -44,14 +44,10 @@ Simply double-click the HTML file or host it on any web server.
 
 ### Screenshots
 
-![Welcome Screen](assets/Screenshot(125).png)  
-The ominous welcome screen that dares you to enter the torture chamber
+![Welcome Screen](assets/screen_125.png)
+![Drawing Interface](assets/screen_127.png)
+![Fake Reward](assets/screen_137.png)
 
-![Drawing Interface](assets/Screenshot(127).png)  
-The main interface where you attempt to draw while the AI sabotages you
-
-![Fake Reward](assets/Screenshot(137).png)  
-The cruel fake reward popup that appears after two attempts
 
 ## Project Demo
 
